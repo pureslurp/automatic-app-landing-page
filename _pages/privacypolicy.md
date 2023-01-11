@@ -15,3 +15,4 @@ Protecting users privacy is paramount to the Plums, and we strive to use as litt
 - The Plum App will ask permission if it uses any internal data, such as images from your camera role. (The Plum App will only request access to data that is critical to the core functionality of the Application)
 - The Plum App does not have access to your password and it is stored securely within a Firestore authentication database
 
+
