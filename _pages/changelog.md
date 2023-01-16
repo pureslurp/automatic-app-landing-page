@@ -6,7 +6,8 @@ include_in_header: true
 
 # Changelog
 Version 1.0 -- 01/08/2023 <br>
-Version 1.1 -- 01/13/2023
+Version 1.1 -- 01/13/2023 <br>
+Version 1.2 -- 01/16/2023
 
 <br>
 
