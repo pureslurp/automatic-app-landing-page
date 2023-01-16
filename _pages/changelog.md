@@ -13,7 +13,7 @@ Version 1.2 -- 01/16/2023
 
 ### `Latest`
 
-### **Version 1.2**
+## **Version 1.2**
 - Revamped user interface for profiles, including a new "Motto" feature
 - New filtering strategy for home page feed
 - Added users ability to change profile name and motto
