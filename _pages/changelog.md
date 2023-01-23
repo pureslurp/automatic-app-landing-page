@@ -7,11 +7,33 @@ include_in_header: true
 # Changelog
 Version 1.0 -- 01/08/2023 <br>
 Version 1.1 -- 01/13/2023 <br>
-Version 1.2 -- 01/16/2023
+Version 1.2 -- 01/16/2023 <br>
+Version 1.3 -- 01/20/2023
 
 <br>
 
 ### `Latest`
+
+### **Version 1.3.2**
+- Increased character limit
+
+### **Version 1.3.1**
+- Fixed a bug that was not allowing users to dismiss keyboard when registering
+- Small UI Updates
+
+## **Version 1.3**
+- Added Golf and Soccer
+- Added ability to follow and unfollow users
+- New Stat Page Interface
+- Updates to Profile User Interface
+- Pull down to refresh feature added
+- Back-end clean up for pulling data and increased performance
+- Added ability to view followers and following
+
+### **Version 1.2.1** 
+- Bug fix that was doubling the users stats on their profile
+- Updates to increase performance and load time
+- Added PUSH option for result
 
 ## **Version 1.2**
 - Revamped user interface for profiles, including a new "Motto" feature
