@@ -8,11 +8,20 @@ include_in_header: true
 Version 1.0 -- 01/08/2023 <br>
 Version 1.1 -- 01/13/2023 <br>
 Version 1.2 -- 01/16/2023 <br>
-Version 1.3 -- 01/20/2023
+Version 1.3 -- 01/20/2023 <br>
+Version 1.4 -- 01/25/2023
 
 <br>
 
 ### `Latest`
+
+### **Version 1.4.1**
+- Fixed a bug taht was not allowing the app to be compatible with the previous versions
+
+## **Version 1.4**
+- Added ability to comment on users predictions
+- Forgot your password button
+- Ability to view who liked your prediction
 
 ### **Version 1.3.2**
 - Increased character limit
