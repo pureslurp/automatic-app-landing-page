@@ -9,11 +9,24 @@ Version 1.0 -- 01/08/2023 <br>
 Version 1.1 -- 01/13/2023 <br>
 Version 1.2 -- 01/16/2023 <br>
 Version 1.3 -- 01/20/2023 <br>
-Version 1.4 -- 01/25/2023
+Version 1.4 -- 01/25/2023 <br>
+Version 1.5 -- 01/30/2023
 
 <br>
 
 ### `Latest`
+
+## **Version 1.5**
+- New Prediction UI (Shoutout @Goose)
+- Hot and Cold indicators for users
+- Added ability to set up alerts on users
+- Added notifications for likes and comments
+
+### **Version 1.4.3**
+- Back-end imporvements of detailed prediction view
+
+### **Version 1.4.2**
+- Fixed bug that wasn't dismissing keyboard on register page
 
 ### **Version 1.4.1**
 - Fixed a bug taht was not allowing the app to be compatible with the previous versions
